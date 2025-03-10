@@ -83,4 +83,15 @@ ul li{
     font-family: "Rebel";
     color: #600d0d;
 }
-
+.aboutline
+{
+    margin-left: 50px;
+    border: 2px solid white;
+    background-color: rgba(237, 245, 245, 0.947);
+}
+.skills{
+    margin-top: 60px;
+}
+.skillsline{
+    font-size: medium;
+}
