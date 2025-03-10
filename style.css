@@ -37,7 +37,7 @@ text-align: left;
 ul li{
     list-style: none;
     margin-left: 62px;
-    margin-top: 27;
+    margin-top: 27px;
     font-size: 14px;
 }
 ul li a{
@@ -48,7 +48,7 @@ font-weight: bold;
 transition: 0.4s ease-in-out;
 }
 ul li a:hover{
-    color: rgb(248, 237, 237);
+    color: rgb(103, 10, 10);
 }
 ul  {
    
@@ -79,7 +79,8 @@ ul li{
   background-blend-mode: darken;
   
 }
-.honeyphoto{
- width: 200px;
-
+.logo{
+    font-family: "Rebel";
+    color: #600d0d;
 }
+
