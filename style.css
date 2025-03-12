@@ -85,13 +85,16 @@ ul li{
 }
 .aboutline
 {
-    margin-left: 50px;
+    margin-left: 60px;
     border: 2px solid white;
-    background-color: rgba(237, 245, 245, 0.947);
+    background-color: rgb(255, 255, 255);
+    margin-right: 500px;
+
 }
-.skills{
+.skills {
     margin-top: 60px;
 }
-.skillsline{
-    font-size: medium;
+.ol{
+   
+font-size: medium;
 }
